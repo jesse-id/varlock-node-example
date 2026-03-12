@@ -1,10 +1,10 @@
 {
   "name": "varlock-node-example",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Example project demonstrating varlock with the 1Password plugin",
   "main": "index.js",
   "scripts": {
-    "example": "varlock load && varlock run -- node index.js"
+    "example": "varlock run -- node index.js"
   },
   "keywords": [],
   "author": "",
